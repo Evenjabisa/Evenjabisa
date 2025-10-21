@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Adel Elgebecy (Evenjabisa)
 
-<!--
-**Evenjabisa/Evenjabisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Web Developer**  
+Building clean, modern, and responsive web applications with passion and precision.  
+I love turning ideas into functional, elegant digital experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+`HTML` • `CSS` • `JavaScript` • `Node.js` • `PostgreSQL` • `MySql` • `EJS` • `Bootstrap` • `React`
+
+---
+
+### 📂 Featured Projects
+- ☕ **Buy me a coffee** – Responsive coffee ordering website  
+- ⚙️ **X-System** – Modular web system built with EJS  
+- 💡 **50 Projects in HTML/CSS/JS** – Collection of creative front-end mini projects  
+
+---
+
+### 📞 Contact Me
+📧 **adel.elgebecy@outlook.com**  
+📱 WhatsApp: [+20 102 221 4317](https://wa.me/201022214317)
+
+---
+
+> *"Clean code. Clear purpose."*  
+> — Adel Elgebecy 🌙
