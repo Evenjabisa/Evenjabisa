@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adel Elgebecy (Evenjabisa)
+# 👋 Hi, I'm Adel Elgebecy 
 
 💻 **Full Stack Web Developer**  
 Building clean, modern, and responsive web applications with passion and precision.  
